@@ -1,6 +1,5 @@
-### Hi there 👋
+ Hi there 👋
 
-<!--
 **tausiq2003/tausiq2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,4 +11,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about nothing😂. I am newbie. But I want to contribute.
 - 📫 How to reach me: ok wait I will tell in future.
 - ⚡ Fun fact: The cat you are seeing in my profile picture.
--->
