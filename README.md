@@ -4,10 +4,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on No work. Just learning. 😎
-- 🌱 I’m currently learning everthing.
-- 👯 I’m looking to collaborate on github with other valuable collaborators.
-- 🤔 I’m looking for help with somebody who will teach me everything that I want.
-- 💬 Ask me about nothing😂. I am newbie. But I want to contribute.
+- 🔭 I’m currently working on basic computer science and stuff, soon starting development...
+- 🌱 I’m currently a student.
+- 👯 I’m looking to contribute.
+- 🤔 I’m looking for good codes.
+- 💬 Ask me about Java and Python.
 - 📫 How to reach me: tausiqsamantaray03@gmail.com
-- ⚡ Fun fact: The cat you are seeing in my profile picture.
