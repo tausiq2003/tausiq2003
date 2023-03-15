@@ -48,7 +48,7 @@ Currently a Student
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tausiq2003&theme=dark&background=000000)](https://git.io/streak-stats)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=codeSTACKr&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=tausiq2003&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=codeSTACKr&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsZed0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
