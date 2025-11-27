@@ -56,7 +56,7 @@ I code things and build stuff
 ### ✍️ Blog Posts that you may like :
 - [Diffie-Hellman Key Exchange](https://tausiq.hashnode.dev/diffie-hellman-key-exchange)
 - [Its about Tor!!!](https://www.showwcase.com/show/19294/its-about-tor)
-- [ACID properties in Databases](https://publish.tausiqsama.me/blogs/acid-properties-in-rdbms)
+- [ACID properties in Databases](https://publish.tausiqsama.com/blogs/acid-properties-in-rdbms)
 
 ---
 
